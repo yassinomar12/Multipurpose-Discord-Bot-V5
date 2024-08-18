@@ -1,17 +1,17 @@
 {
     "OWNER_IDS": [
-        166692371981926400
+        1233864269053956178
     ],
-    "TOKEN": "Your Bot Token Here",
+    "TOKEN": "MTI3NDY4ODMxNTY2NDM2NzcyNw.GkktHB.4D6td3l11mOWu8oqO13gTXjt-oFA26d5OZs7m8",
     "BotName": "robi",
     "serverLink": "https://discord.gg/encoders",
-    "wh_cl": "Webhook1",
-    "wh_bl": "Webhook2",
+    "wh_cl": "https://discord.com/api/webhooks/1274754804735807521/ANH8V_bblOLD4DK_OzAQFjakQLhrphxF0dR_-O-REN8tif5bKgpYjiit7qwKYOAn072x",
+    "wh_bl": "https://discord.com/api/webhooks/1274754915406708927/3y-5VfeqXm3HVyiVDzHJ3WjmWV6T7enh-WLd0Qb1eLeehJZd05jGSHXY_LT8J1TIYsgd",
     "statusText": ".help",
     "EXTENSIONS": [
         "cogs.events"
     ],
     "np": [
-        166692371981926400
+        1233864269053956178
     ]
 }
